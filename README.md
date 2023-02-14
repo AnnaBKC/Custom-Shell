@@ -13,13 +13,13 @@ The program has the following functionalities:
 - Implements custom handlers for 2 signals, SIGINT and SIGTSTP
 
 
-## Execution instructions
+## Instructions
 
-compile:
+Compile:
 ```sh
 gcc --std=gnu99 -o smallsh main.c
 ```
-execute:
+Execute:
 ```sh
 ./smallh
 ```
